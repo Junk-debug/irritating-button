@@ -1,6 +1,6 @@
 :root {
     --color-primary: rgb(0, 72, 255);
-    --button-speed: 10s;
+    --button-speed: 80s;
 }
 
 * {
