@@ -22,7 +22,8 @@
     top: 50%;
     left: 50%;
     transform:translate(-50%, -50%);
-    transition: ease-out var(--button-speed) top, 
+    transition: 
+    ease-out var(--button-speed) top, 
     ease-out var(--button-speed) left, 
     ease-out 0.3s color, 
     ease-out 0.3s background-color; 

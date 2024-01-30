@@ -1,2 +1,2 @@
 # irritating-button
-button that moves under the user cursor
+button that irritating moves under the user cursor
